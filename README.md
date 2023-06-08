@@ -14,3 +14,5 @@ I studied cookies in-depth and documented everything in Detail! Including variou
    I welcome corrections, suggestions, and additional contributions from readers to make this resource even more comprehensive and valuable.
 
 🔸 Overall, the aim of this research is to serve as a comprehensive and centralized resource, facilitating a deeper understanding of cookie security and addressing       the various intricacies associated with it in one single space, Making it easy for everyone to Learn about Cookies.
+
+Buy me a [COFFEE! ☕](https://www.buymeacoffee.com/shubham_srt)
